@@ -1,0 +1,15 @@
+#container {
+  position: relative;
+}
+
+.newpositioncomunidad {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#error {
+  display: none;
+  font-size: 40px;
+  color: red;
+}
